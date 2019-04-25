@@ -1,0 +1,13 @@
+{
+    "version": "independent",
+    "packages": [
+        "packages/peregrine",
+        "packages/pwa-buildpack",
+        "packages/upward-js",
+        "packages/upward-spec",
+        "packages/venia-concept"
+    ],
+
+    "npmClient": "yarn",
+    "useWorkspaces": true
+}

@@ -1,0 +1,21 @@
+.root {
+    /*padding: 0.5rem;*/
+    background-image: url("https://anf.scene7.com/is/image/anf/A-20190418-USCA-D-HP-50offTTS?$marketing$&scl=1");
+    color: white;
+
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0 0 1rem;
+    padding: 0.5rem;
+}
+
+.layout_default {
+    padding: 0;
+}
+
+.layout_1column {
+    composes: layout_default;
+}

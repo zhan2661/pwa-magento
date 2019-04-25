@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Price/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["export { default } from './Price';\n"],"file":"index.js"}

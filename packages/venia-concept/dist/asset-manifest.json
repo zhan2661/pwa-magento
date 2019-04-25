@@ -1,0 +1,31 @@
+{
+  "RootCmp_CATEGORY__default.js": "js/RootCmp_CATEGORY__default-98e392a6bea6017b3491.js",
+  "RootCmp_CMS_PAGE__default.js": "js/RootCmp_CMS_PAGE__default-c57e91deddb665d59202.js",
+  "RootCmp_NOTFOUND__default.js": "js/RootCmp_NOTFOUND__default-054c2d5c65961cf00fb5.js",
+  "RootCmp_PRODUCT__default.js": "js/RootCmp_PRODUCT__default-9310866ba19b7044a15a.js",
+  "RootCmp_SEARCH__default.js": "js/RootCmp_SEARCH__default-6d209401f896748c3a4d.js",
+  "client.js": "js/client.js",
+  "entrypoints": {
+    "client": {
+      "js": [
+        "js/vendor~client-ed1059a40369a649efe3.js",
+        "js/client.js"
+      ]
+    }
+  },
+  "logo1.svg": "3b6bbf90ef2b96cb6433efd198821a7a.svg",
+  "vendor~client.js": "js/vendor~client-ed1059a40369a649efe3.js",
+  "bundles": {
+    "load": [
+      "js/vendor~client-ed1059a40369a649efe3.js",
+      "js/client.js"
+    ],
+    "prefetch": [
+      "js/RootCmp_CATEGORY__default-98e392a6bea6017b3491.js",
+      "js/RootCmp_CMS_PAGE__default-c57e91deddb665d59202.js",
+      "js/RootCmp_NOTFOUND__default-054c2d5c65961cf00fb5.js",
+      "js/RootCmp_PRODUCT__default-9310866ba19b7044a15a.js",
+      "js/RootCmp_SEARCH__default-6d209401f896748c3a4d.js"
+    ]
+  }
+}
